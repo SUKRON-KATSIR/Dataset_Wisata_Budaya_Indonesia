@@ -1,7 +1,7 @@
 { 
     "intents":[ 
         { 
-            "tag": "greeting ", 
+            "tag": "greeting", 
             "patterns":[ 
                 "hallo", 
                 "hai", 
@@ -18,10 +18,12 @@
                 "bro", 
                 "sis", 
                 "kawan" 
-            ], 
+            ],
             "responses" :[ 
-                "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?" 
-            ] 
+                "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?",
+                "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?",
+                "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?"
+            ]
         },
         {
             "tag": "goodbye",
