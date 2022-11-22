@@ -20,8 +20,6 @@
                 "kawan"
             ],
             "responses": [
-                "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?",
-                "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?",
                 "Hai !, salam kenal ya! Mau tau seputar KERAGAMAN BUDAYA DAN WISATA  DI INDONESIA ?"
             ]
         },
@@ -90,7 +88,7 @@
             ]
         },
         {
-            "tag": "destinasi_aceh_sukron",
+            "tag": "destinasi_aceh",
             "patterns": [
                 "Destinasi yang ada di Nanggroe aceh darussalam ",
                 "tempat wisata yang ada di aceh",
@@ -151,7 +149,7 @@
                 "destinasi di Sumatera selatan",
                 "mana saja tempat wisata yang ada di Sumatera selatan ?"
             ],
-            "responses ": [
+            "responses": [
                 "Salah satu tempat wisata yang ada di Sumatera Selatan yaitu Jembatan Ampera, Rumah Limas, Hutan Wisata Punti Kayu, Masjid Agung Palembang dan Goa Putri "
             ]
         },
@@ -330,7 +328,7 @@
                 "Bagaimana awal Mula adanya Gedung Indonesia Menggugat?"
             ],
             "responses": [
-                "Gedung Indonesia Menggugat juga menjadi salah satu bangunan bersejarah di Bandung yang tak boleh kamu lewatkan. Bangunan ini konon dibangun sekitar tahun 1907 dan dulunya merupakan rumah warga Belanda sebelum dialih fungsikan sebagai Pengadilan Pemerintah Belanda yang digunakan untuk mengadilu pejuang kemerdekaan, termasuk Soekarno, Maskoen, Sartono hingga Satromolejono. Nama Indonesia Menggugat pun dikenal sebagai salah satu peristiwa bersejarah dimana saat itu Soekarno diadili dan memberontak melalui pembelaan berjudul Indonesia Menggugat. Peristiwa tersebut tentu mengejutkan pemerintan Belanda saat itu dan sampai saat ini dikenal sebagai salah satu peristiwa bersejarah yang selalu dikenang. Gedung Indonesia Menggugat ini memang telah berusia ratusan tahun namun masih berdiri kokoh hingga saat ini. Setelah beberapa kali mengalami perubahan fungsi, gedung ini sekarang menjadi tempat diselenggarakannya berbagai kegiatan social, seni atau lainnya. "
+                "Gedung Indonesia Menggugat juga menjadi salah satu bangunan bersejarah di Bandung yang tak boleh kamu lewatkan. Bangunan ini konon dibangun sekitar tahun 1907 dan dulunya merupakan rumah warga Belanda sebelum dialih fungsikan sebagai Pengadilan Pemerintah Belanda yang digunakan untuk mengadilu pejuang kemerdekaan, termasuk Soekarno, Maskoen, Sartono hingga Satromolejono. Nama Indonesia Menggugat pun dikenal sebagai salah satu peristiwa bersejarah dimana saat itu Soekarno diadili dan memberontak melalui pembelaan berjudul “Indonesia Menggugat”. Peristiwa tersebut tentu mengejutkan pemerintan Belanda saat itu dan sampai saat ini dikenal sebagai salah satu peristiwa bersejarah yang selalu dikenang. Gedung Indonesia Menggugat ini memang telah berusia ratusan tahun namun maish berdiri kokoh hingga saat ini. Setelah beberapa kali mengalami perubahan fungsi, gedung ini sekarang menjadi tempat diselenggarakannya berbagai kegiatan social, seni atau lainnya. "
             ]
         },
         {
@@ -345,7 +343,7 @@
             ]
         },
         {
-            "tag": "destinasi_yogyakarta",
+            "tag": "destinasi_yogyakarta_erdi",
             "patterns": [
                 "Destinasi yang ada di yogyakarta",
                 "Destinasi yang ada di Daerah istimewa yogyakarta"
