@@ -69,7 +69,7 @@
                 "Jumlah provinsi di indonesia ?",
                 "berapa jumlah provinsi di indonesia ?",
                 "berapa jumlah provinsinya ?",
-                "berapa jumlah provinsi di indonesia saat ini ?",
+                "berapa jumlah provinsi di indonesia saat ini ?"
             ],
             "responses": [
                 "Jumlah provinsi di indonesia saat ini di indonesia berjumalah 37 yang awalnya 34."
@@ -83,7 +83,7 @@
                 "nama provinsi indonesia",
                 "nama-nama provinsi indonesia",
                 "nama-nama provinsi di indonesia",
-                "nama provinsi di indonesia",
+                "nama provinsi di indonesia"
             ],
             "responses": [
                 "1.Nanggroe Aceh Darussalam, 2.Sumatera Utara, 3.Sumatera Selatan, 4.Sumatera Barat, 5.Bengkulu, 6.Riau, 7.Kepulauan Riau, 8.Jambi, 9.Lampung, 10.Bangka Belitung, 11.Kalimantan Barat, 12.Kalimantan Timur, 13.Kalimantan Selatan, 14.Kalimantan Tengah, 15.Kalimantan Utara, 16.Banten, 17.DKI Jakarta, 18.Jawa Barat, 19.Jawa Tengah, 20.DI Yogyakarta, 21.Jawa Timur, 22.Bali, 23.Nusa Tenggara Timur, 24.Nusa Tenggara Barat, 25.Gorontalo, 26.Sulawesi Barat, 27.Sulawesi Tengah, 28.Sulawesi Utara, 29.Sulawesi Tenggara, 30.Sulawesi Selatan, 31.Maluku Utara, 32.Maluku, 33.Papua Barat, 34.Papua, 35.Papua Selatan, 36.Papua Tengah, 37.Papua Pegunungan Tengah"
@@ -217,7 +217,7 @@
                 "wisata kepulauan riau",
                 "wisata di kepulauan riau",
                 "destinasi di kepulauan riau",
-                "mana saja tempat wisata yang ada di kepulauan riau ?",
+                "mana saja tempat wisata yang ada di kepulauan riau ?"
             ],
             "responses": [
                 "Salah satu tempat wisata yang ada di Kepulauan Riau yaitu Pulau Bintan, Pulau Penyengat, Pulau Ranah, Kepulauan Anambas dan Kepri Coral"
@@ -330,7 +330,7 @@
                 "Bagaimana awal Mula adanya Gedung Indonesia Menggugat?"
             ],
             "responses": [
-                "Gedung Indonesia Menggugat juga menjadi salah satu bangunan bersejarah di Bandung yang tak boleh kamu lewatkan. Bangunan ini konon dibangun sekitar tahun 1907 dan dulunya merupakan rumah warga Belanda sebelum dialih fungsikan sebagai Pengadilan Pemerintah Belanda yang digunakan untuk mengadilu pejuang kemerdekaan, termasuk Soekarno, Maskoen, Sartono hingga Satromolejono. Nama Indonesia Menggugat pun dikenal sebagai salah satu peristiwa bersejarah dimana saat itu Soekarno diadili dan memberontak melalui pembelaan berjudul “Indonesia Menggugat”. Peristiwa tersebut tentu mengejutkan pemerintan Belanda saat itu dan sampai saat ini dikenal sebagai salah satu peristiwa bersejarah yang selalu dikenang. Gedung Indonesia Menggugat ini memang telah berusia ratusan tahun namun maish berdiri kokoh hingga saat ini. Setelah beberapa kali mengalami perubahan fungsi, gedung ini sekarang menjadi tempat diselenggarakannya berbagai kegiatan social, seni atau lainnya. "
+                "Gedung Indonesia Menggugat juga menjadi salah satu bangunan bersejarah di Bandung yang tak boleh kamu lewatkan. Bangunan ini konon dibangun sekitar tahun 1907 dan dulunya merupakan rumah warga Belanda sebelum dialih fungsikan sebagai Pengadilan Pemerintah Belanda yang digunakan untuk mengadilu pejuang kemerdekaan, termasuk Soekarno, Maskoen, Sartono hingga Satromolejono. Nama Indonesia Menggugat pun dikenal sebagai salah satu peristiwa bersejarah dimana saat itu Soekarno diadili dan memberontak melalui pembelaan berjudul Indonesia Menggugat. Peristiwa tersebut tentu mengejutkan pemerintan Belanda saat itu dan sampai saat ini dikenal sebagai salah satu peristiwa bersejarah yang selalu dikenang. Gedung Indonesia Menggugat ini memang telah berusia ratusan tahun namun masih berdiri kokoh hingga saat ini. Setelah beberapa kali mengalami perubahan fungsi, gedung ini sekarang menjadi tempat diselenggarakannya berbagai kegiatan social, seni atau lainnya. "
             ]
         },
         {
@@ -345,7 +345,7 @@
             ]
         },
         {
-            "tag": "destinasi_yogyakarta_erdi",
+            "tag": "destinasi_yogyakarta",
             "patterns": [
                 "Destinasi yang ada di yogyakarta",
                 "Destinasi yang ada di Daerah istimewa yogyakarta"
@@ -774,6 +774,6 @@
             "responses": [
                 "tempat wisata yang ada di Papua Pegunungan, diantaranya yaitu Puncak Trikora, Gua Kontilola, Lembah Baliem, Air Terjun Walesi dan Pasir Putih Desa Aikima. "
             ]
-        },
+        }
     ]
 }
