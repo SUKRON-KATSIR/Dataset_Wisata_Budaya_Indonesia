@@ -53,17 +53,6 @@
             ]
         },
         {
-            "tag": "salom",
-            "patterns": [
-                "salom",
-                "salom om swastiastu"
-            ],
-            "responses": [
-                "salom",
-                "salom om swastiastu"
-            ]
-        },
-        {
             "tag": "goodbye",
             "patterns": [
                 "Dah",
