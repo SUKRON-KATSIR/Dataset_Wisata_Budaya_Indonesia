@@ -20,7 +20,8 @@
                 "kawan"
             ],
             "responses": [
-                "Hai !, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia ? "
+                "Hai !, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia ? ",
+                "Halo !, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia "
             ]
         },
         {
@@ -49,6 +50,17 @@
             ],
             "responses": [
                 "Waalaikumsalam Warahmatullahi Wabarakatuh, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia ? "
+            ]
+        },
+        {
+            "tag": "salom",
+            "patterns": [
+                "salom",
+                "salom om swastiastu"
+            ],
+            "responses": [
+                "salom",
+                "salom om swastiastu"
             ]
         },
         {
@@ -129,7 +141,69 @@
                 "mana saja tempat wisata yang ada di aceh darussalam ?"
             ],
             "responses": [
-                "salah satu tempat wisata yang ada di Nanggroe aceh darussalam yaitu ada Museum Tsunami Dan Pemakaman Kerkhof Peutjoet, Taman Sari Gunongan dan Pinto Khob, Lapangan Blangpadang Dan Monumen Replika Pesawat Dacota DC-3 Seulawah RI-001, Museum Aceh (Rumah Aceh), Taman Ratu Safiatuddin "
+                "salah satu tempat wisata yang ada di Nanggroe aceh darussalam yaitu Masjid Raya Baiturrahman, Museum Tsunami, Pantai Lhoknga, Danau Lut Tawar dan Air Terjun Blang Kolam "
+            ]
+        },
+        {
+            "tag": "masjid_baiturrahman",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai masjid baiturrahman ? ",
+                "Apa yang kamu ketahui tentang masjid baiturrahman ?",
+                "Apa yang bisa kamu jelaskan mengenai masjid baiturrahman ?",
+                "masjid baiturrahman"
+            ],
+            "responses": [
+                "Masjid Raya Baiturrahman Aceh dibangun pada masa pemerintahan Sultan Iskandar Muda, dengan tujuan sebagai pusat pengajaran ilmu agama. Masjid ini mampu menampung sebanyak 1900 jamaah, di bagian luar masjid terdapat taman yang indah. Dan pada waktu terjadinya tsunami Aceh tahun 2004, Masjid Raya Baiturrahman merupakan salah satu bangunan yang tetap kokoh berdiri dan dijadikan sebagai tempat pengungsian. Masjid ini sudah mengalami renovasi hingga 5 kali serta beberapa perluasan area. Bahkan masjid ini sempat menjadi tempat perlindungan masyarakat Aceh saat bencana tsunami menyerang di tahun 2004 silam. Masjid ini terletak di (Jl. Moh. Jam No.1, Kp. Baru, Kec. Baiturrahman, Kota Banda Aceh, Aceh) "
+            ]
+        },
+        {
+            "tag": "museum_tsunami",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai museum tsunami ? ",
+                "Apa yang kamu ketahui tentang museum tsunami ?",
+                "Apa yang bisa kamu jelaskan mengenai museum tsunami ?",
+                "museum tsunami",
+                "kisah museum tsunami",
+                "Bisakah kamu ceritakan mengenai museum sunami ? ",
+                "Apa yang kamu ketahui tentang museum sunami ?",
+                "Apa yang bisa kamu jelaskan mengenai museum sunami ?",
+                "museum sunami",
+                "kisah museum sunami"
+            ],
+            "responses": [
+                "Museum Tsunami terletak di (Jl. Sultan Iskandar Muda, No. 3, Sukaramai, Kecamatan Baiturrahman, Kota Banda Aceh, Aceh.), di dalam Museum Tsunami Aceh di dalamnya menyimpan nama -anama dari korban Tsunami pada tahun 2004, selain itu ada pula 22 alat peraga, 7 paket dan 26 foto mengenai tsunami. Untuk masuk kedalamnya harus membayar tiket sebesar 2rb hingga 10rb disana buka jam 09.00 - 16.00"
+            ]
+        },
+        {
+            "tag": "Pantai_Lhoknga",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Pantai Lhoknga ? ",
+                "Apa yang kamu ketahui tentang Pantai Lhoknga ?",
+                "Apa yang bisa kamu jelaskan mengenai Pantai Lhoknga ?",
+                "Pantai Lhoknga",
+                "kisah Pantai Lhoknga"
+            ],
+            "responses": [
+                "Pantai Lhoknga memiliki hamparan pasir berwarna putih serta laut yang berwarna biru, pantai ini sering digunakan untuk bermain selancar air atau surfing. Di sekitar lokasi Pantai Lhoknga terdapat penyewaan papan selancar, sehingga dapat mempermudah kamu ketika hendak bermain surfing. Lokasi nya terletak di kecamatan Lhoknga, Kabupaten Aceh Besar, Aceh. untuk Tiket masuk mulai Rp. 15.000 dan Jam bukanya 07.00 – 17.00"
+            ]
+        },
+        {
+            "tag": "Danau_Lut_Tawar",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Danau Lut Tawar ? ",
+                "Apa yang kamu ketahui tentang Danau Lut Tawar ?",
+                "Apa yang bisa kamu jelaskan mengenai Danau Lut Tawar ?",
+                "Danau Lut Tawar",
+                "kisah Danau Lut Tawar"
+            ],
+            "responses": [
+                "Danau Lut Tawar terletak di Dataran tinggi Gayo, Kabupaten Aceh tengah provinsi aceh, danau ini sangat luas terlihat seperti sebuah lautan hanya saja airnya tawar. Itulah yang melatarbelakangi penamaan Danau Lut Tawar. Kamu dapat menikmati keindahan Danau Lut Tawar yang berwarna biru, dihiasi pula dengan perbukitan yang berwarna hijau. Yakni dengan menyewa perahu motor untuk mengelilingi danau ataupun dengan menyewa sepeda. Tapi ketika berada di Danau Lut Tawar, kamu tidak diperkenankan untuk berenang karena memiliki kedalaman mencapai 80 meter. "
+            ]
+        },
+        {
+            "tag": "Air_Terjun_Blang_Kolam",
+            "patterns": [
+                "Air Terjun Blang Kolam ialah sebuah air terjun yang memiliki ketinggian sekitar 75 meter, dengan kedalaman kolamnya antara 1 hingga 3 meter. Untuk menuju Air Terjun Blang Kolam, kamu harus melakukan trekking menuruni anak tangga terlebih dahulu. Karena memang lokasinya masih tersembunyi. Selain bermain air, di tempat wisata Aceh yang satu ini kamu juga dapat melakukan camping bersama komunitas para pecinta alam."
             ]
         },
         {
@@ -183,6 +257,19 @@
             ],
             "responses": [
                 "Salah satu tempat wisata yang ada di Sumatera Utara yaitu Danau Toba, Pulau Samosir, Museum Perjuangan TNI, Kebun Binatang Medan dan Taman Buaya Medan "
+            ]
+        },
+        {
+            "tag": "danau_toba",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Danau Toba ? ",
+                "Apa yang kamu ketahui tentang Danau Toba ?",
+                "Apa yang bisa kamu jelaskan mengenai Danau Toba ?",
+                "Danau Toba",
+                "kisah Danau Toba"
+            ],
+            "responses": [
+                "Danau Toba terbentuk oleh letusan gunung berapi beberapa abad yang lalu. Danau yang yang merupakan destinasi wisata fovorit ini juga merupakan ikon Sumatera Utara. Terdapat banyak penginapan disana jika ingin bermalam disana"
             ]
         },
         {
