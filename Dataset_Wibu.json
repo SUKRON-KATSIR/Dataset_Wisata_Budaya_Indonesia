@@ -330,6 +330,26 @@
             ]
         },
         {
+            "tag": "destinasi jawa barat",
+            "patterns": [
+                "Destinasi apa saja yang ada di Jawa Barat? ",
+                "tempat wisata yang ada di Jawa Barat apa saja?",
+                "mana saja tempat wisata yang ada di Jawa Barat?",
+                "Destinasi yang ada di Jawa Barat",
+                "tempat wisata yang ada di Jawa Barat",
+                "wisata Jawa Barat",
+                "tempat wisata Jawa Barat",
+                "destinasi Jawa Barat",
+                "wisata Jawa Barat",
+                "wisata di Jawa Barat",
+                "destinasi di Jawa Barat",
+                "mana saja tempat wisata yang ada di Jawa Barat ?"
+            ],
+            "responses": [
+                "Tempat Wisata yang ada di Jawa Barat salah satunya yang wajib kalian kunujungi yaitu ada pantai Ujung genteng yang berada di (Ciracap, Sukabumi, Jawa Barat, Indonesia), Pantai Pasir Putih yang berada di (Pangandaran, Ciamis, jabar), Pantai Pelabuha nratu yang terletak di (Kecamatan Pelabuhan Ratu, Sukabumi),Taman Nasional Gunung Halimun Salak yang berada di (Jl. Raya Cipanas, Kabandungan, Sukabumi Regency) dan Petilasan Prabu Siliwangi yang berada di (Pajajar, rajagaluh, Majalengka)"
+            ]
+        },
+        {
             "tag": "destinasi_Jakarta",
             "patterns": [
                 "Destinasi apa saja yang ada di Jakarta? ",
@@ -346,7 +366,7 @@
                 "mana saja tempat wisata yang ada di Jakarta ?"
             ],
             "responses": [
-                "tempat wisata yang ada di Jakarta, diantaranya yaitu Tugu Proklamasi, Masjid Istiqlal, dan Museum Sumpah Pemuda. "
+                "Tempat wisata yang ada di Jakarta, diantaranya yaitu Tugu Proklamasi, Masjid Istiqlal, dan Museum Sumpah Pemuda. "
             ]
         },
         {
