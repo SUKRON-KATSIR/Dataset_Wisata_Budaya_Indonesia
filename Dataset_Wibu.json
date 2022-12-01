@@ -148,6 +148,27 @@
             ]
         },
         {
+            "tag": "sumatera",
+            "patterns": [
+                "wisata Sumatera",
+                "Destinasi yang ada di Sumatera",
+                "Destinasi apa saja yang ada di Sumatera  ",
+                "tempat wisata yang ada di Sumatera apa saja?",
+                "mana saja tempat wisata yang ada di Sumatera ",
+                "tempat wisata yang ada di Sumatera",
+                "wisata Sumatera",
+                "tempat wisata Sumatera",
+                "destinasi Sumatera",
+                "wisata Sumatera",
+                "wisata di Sumatera",
+                "destinasi di Sumatera",
+                "mana saja tempat wisata yang ada di Sumatera ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya yang ada di Sumatera mana ya, Karena untuk area Sumatera masih terbagi dengan 3 Provinsi yaitu Sumatera Utara, Sumatera Selatan dan Sumatera Barat, Silahkan pilih salah satu ya.....😊"
+            ]
+        },
+        {
             "tag": "destinasi_sumatera_utara",
             "patterns": [
                 "Destinasi yang ada di sumatera utara",
@@ -486,6 +507,27 @@
             ]
         },
         {
+            "tag": "jawa",
+            "patterns": [
+                "wisata jawa",
+                "Destinasi yang ada di jawa",
+                "Destinasi apa saja yang ada di Jawa  ",
+                "tempat wisata yang ada di Jawa apa saja?",
+                "mana saja tempat wisata yang ada di Jawa ",
+                "tempat wisata yang ada di Jawa",
+                "wisata Jawa",
+                "tempat wisata Jawa",
+                "destinasi Jawa",
+                "wisata Jawa",
+                "wisata di Jawa",
+                "destinasi di Jawa",
+                "mana saja tempat wisata yang ada di Jawa ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya di Jawa Mana nih, Karena untuk area Jawa masih terbagi dengan 3 Provinsi yaitu Jawa Timur, Jawa Tengah dan Jawa Barat, Silahkan pilih salah satu ya.....😊"
+            ]
+        },
+        {
             "tag": "destinasi_jawa_timur",
             "patterns": [
                 "Destinasi yang ada di jawa timur",
@@ -503,6 +545,27 @@
             ],
             "responses": [
                 "salah satu tempat wisata yang ada di jawa timur yaitu Kelenteng Sanggar Agung, Atlantis Land Surabaya, Museum De Javasche Bank, Taman Pantai Ria Kenjeran, wisata perahu kalimas surabaya"
+            ]
+        },
+        {
+            "tag": "Kalimantan",
+            "patterns": [
+                "wisata Kalimantan",
+                "Destinasi yang ada di Kalimantan",
+                "Destinasi apa saja yang ada di Kalimantan  ",
+                "tempat wisata yang ada di Kalimantan apa saja?",
+                "mana saja tempat wisata yang ada di Kalimantan ",
+                "tempat wisata yang ada di Kalimantan",
+                "wisata Kalimantan",
+                "tempat wisata Kalimantan",
+                "destinasi Kalimantan",
+                "wisata Kalimantan",
+                "wisata di Kalimantan",
+                "destinasi di Kalimantan",
+                "mana saja tempat wisata yang ada di Kalimantan ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya yang ada di Kalimantan mana nih, Karena untuk area Kalimantan masih terbagi dengan 5 Provinsi yaitu Kalimantan Barat, Kalimantan Timur, Kalimantan Selatan, Kalimantan Tengah dan Kalimantan Utara. Silahkan pilih salah satu ya.....😊"
             ]
         },
         {
@@ -726,6 +789,25 @@
             ],
             "responses": [
                 "Berikut adalah beberapa objek wisata ternama yang ada di Provinsi Gorontalo : Pulau Saronde, Pulo Cinta, Wisata Hiu Paus, Benteng Otanaha, Menara Pakaya Limboto, Air Terjun Ayuhulalo, Air Terjun Taludaa, Danau Perintis, Monumen Nani Wartabone, Taman Laut Bitila, Pantai Bolihutuo, Panorama Alam Gunung Tilongkabila, Pantai Kelapa Dua dan Pohon Cinta"
+            ]
+        },
+        {
+            "tag": "Sulawesi",
+            "patterns": [
+                "wisata Sulawesi",
+                "Destinasi yang ada di Sulawesi",
+                "Destinasi apa saja yang ada di Sulawesi  ",
+                "tempat wisata yang ada di Sulawesi apa saja?",
+                "mana saja tempat wisata yang ada di Sulawesi ",
+                "tempat wisata yang ada di Sulawesi",
+                "tempat wisata Sulawesi",
+                "destinasi Sulawesi",
+                "wisata di Sulawesi",
+                "destinasi di Sulawesi",
+                "mana saja tempat wisata yang ada di Sulawesi ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya yang ada di Sulawesi Mana nih, Karena untuk Sulawesi masih terbagi dengan 5 Provinsi loh yaitu Sulawesi Barat, Sulawesi Tengah, Sulawesi Utara, Sulawesi Tenggara dan Sulawesi Selatan. Silahkan pilih salah satu ya.....😊"
             ]
         },
         {
@@ -1075,7 +1157,7 @@
                 "mana saja tempat wisata yang ada di papua?"
             ],
             "responses": [
-                "tempat wisata yang ada di Papua Barat, diantaranya yaitu Gunung Arfak, Pulau Mansinam, Pantai Bakaro, Pantai Pasir Putih Yen Baba dan Pantai Syari. "
+                "tempat wisata yang ada di Papua, diantaranya yaitu Gunung Arfak, Pulau Mansinam, Pantai Bakaro, Pantai Pasir Putih Yen Baba dan Pantai Syari. "
             ]
         },
         {
