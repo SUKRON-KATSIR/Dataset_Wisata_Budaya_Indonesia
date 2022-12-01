@@ -20,7 +20,8 @@
                 "kawan"
             ],
             "responses": [
-                "Hai !, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia ? "
+                "Hai !, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia ? ",
+                "Halo !, salam kenal ya! Mau tau seputar Keragaman Budaya & Wisata di Indonesia "
             ]
         },
         {
@@ -129,7 +130,69 @@
                 "mana saja tempat wisata yang ada di aceh darussalam ?"
             ],
             "responses": [
-                "salah satu tempat wisata yang ada di Nanggroe aceh darussalam yaitu ada Museum Tsunami Dan Pemakaman Kerkhof Peutjoet, Taman Sari Gunongan dan Pinto Khob, Lapangan Blangpadang Dan Monumen Replika Pesawat Dacota DC-3 Seulawah RI-001, Museum Aceh (Rumah Aceh), Taman Ratu Safiatuddin "
+                "salah satu tempat wisata yang ada di Nanggroe aceh darussalam yaitu Masjid Raya Baiturrahman, Museum Tsunami, Pantai Lhoknga, Danau Lut Tawar dan Air Terjun Blang Kolam "
+            ]
+        },
+        {
+            "tag": "masjid_baiturrahman",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai masjid baiturrahman ? ",
+                "Apa yang kamu ketahui tentang masjid baiturrahman ?",
+                "Apa yang bisa kamu jelaskan mengenai masjid baiturrahman ?",
+                "masjid baiturrahman"
+            ],
+            "responses": [
+                "Masjid Raya Baiturrahman Aceh dibangun pada masa pemerintahan Sultan Iskandar Muda, dengan tujuan sebagai pusat pengajaran ilmu agama. Masjid ini mampu menampung sebanyak 1900 jamaah, di bagian luar masjid terdapat taman yang indah. Dan pada waktu terjadinya tsunami Aceh tahun 2004, Masjid Raya Baiturrahman merupakan salah satu bangunan yang tetap kokoh berdiri dan dijadikan sebagai tempat pengungsian. Masjid ini sudah mengalami renovasi hingga 5 kali serta beberapa perluasan area. Bahkan masjid ini sempat menjadi tempat perlindungan masyarakat Aceh saat bencana tsunami menyerang di tahun 2004 silam. Masjid ini terletak di (Jl. Moh. Jam No.1, Kp. Baru, Kec. Baiturrahman, Kota Banda Aceh, Aceh) "
+            ]
+        },
+        {
+            "tag": "museum_tsunami",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai museum tsunami ? ",
+                "Apa yang kamu ketahui tentang museum tsunami ?",
+                "Apa yang bisa kamu jelaskan mengenai museum tsunami ?",
+                "museum tsunami",
+                "kisah museum tsunami",
+                "Bisakah kamu ceritakan mengenai museum sunami ? ",
+                "Apa yang kamu ketahui tentang museum sunami ?",
+                "Apa yang bisa kamu jelaskan mengenai museum sunami ?",
+                "museum sunami",
+                "kisah museum sunami"
+            ],
+            "responses": [
+                "Museum Tsunami terletak di (Jl. Sultan Iskandar Muda, No. 3, Sukaramai, Kecamatan Baiturrahman, Kota Banda Aceh, Aceh.), di dalam Museum Tsunami Aceh di dalamnya menyimpan nama -anama dari korban Tsunami pada tahun 2004, selain itu ada pula 22 alat peraga, 7 paket dan 26 foto mengenai tsunami. Untuk masuk kedalamnya harus membayar tiket sebesar 2rb hingga 10rb disana buka jam 09.00 - 16.00"
+            ]
+        },
+        {
+            "tag": "Pantai_Lhoknga",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Pantai Lhoknga ? ",
+                "Apa yang kamu ketahui tentang Pantai Lhoknga ?",
+                "Apa yang bisa kamu jelaskan mengenai Pantai Lhoknga ?",
+                "Pantai Lhoknga",
+                "kisah Pantai Lhoknga"
+            ],
+            "responses": [
+                "Pantai Lhoknga memiliki hamparan pasir berwarna putih serta laut yang berwarna biru, pantai ini sering digunakan untuk bermain selancar air atau surfing. Di sekitar lokasi Pantai Lhoknga terdapat penyewaan papan selancar, sehingga dapat mempermudah kamu ketika hendak bermain surfing. Lokasi nya terletak di kecamatan Lhoknga, Kabupaten Aceh Besar, Aceh. untuk Tiket masuk mulai Rp. 15.000 dan Jam bukanya 07.00 – 17.00"
+            ]
+        },
+        {
+            "tag": "Danau_Lut_Tawar",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Danau Lut Tawar ? ",
+                "Apa yang kamu ketahui tentang Danau Lut Tawar ?",
+                "Apa yang bisa kamu jelaskan mengenai Danau Lut Tawar ?",
+                "Danau Lut Tawar",
+                "kisah Danau Lut Tawar"
+            ],
+            "responses": [
+                "Danau Lut Tawar terletak di Dataran tinggi Gayo, Kabupaten Aceh tengah provinsi aceh, danau ini sangat luas terlihat seperti sebuah lautan hanya saja airnya tawar. Itulah yang melatarbelakangi penamaan Danau Lut Tawar. Kamu dapat menikmati keindahan Danau Lut Tawar yang berwarna biru, dihiasi pula dengan perbukitan yang berwarna hijau. Yakni dengan menyewa perahu motor untuk mengelilingi danau ataupun dengan menyewa sepeda. Tapi ketika berada di Danau Lut Tawar, kamu tidak diperkenankan untuk berenang karena memiliki kedalaman mencapai 80 meter. "
+            ]
+        },
+        {
+            "tag": "Air_Terjun_Blang_Kolam",
+            "patterns": [
+                "Air Terjun Blang Kolam ialah sebuah air terjun yang memiliki ketinggian sekitar 75 meter, dengan kedalaman kolamnya antara 1 hingga 3 meter. Untuk menuju Air Terjun Blang Kolam, kamu harus melakukan trekking menuruni anak tangga terlebih dahulu. Karena memang lokasinya masih tersembunyi. Selain bermain air, di tempat wisata Aceh yang satu ini kamu juga dapat melakukan camping bersama komunitas para pecinta alam."
             ]
         },
         {
@@ -148,6 +211,27 @@
             ]
         },
         {
+            "tag": "sumatera",
+            "patterns": [
+                "wisata Sumatera",
+                "Destinasi yang ada di Sumatera",
+                "Destinasi apa saja yang ada di Sumatera  ",
+                "tempat wisata yang ada di Sumatera apa saja?",
+                "mana saja tempat wisata yang ada di Sumatera ",
+                "tempat wisata yang ada di Sumatera",
+                "wisata Sumatera",
+                "tempat wisata Sumatera",
+                "destinasi Sumatera",
+                "wisata Sumatera",
+                "wisata di Sumatera",
+                "destinasi di Sumatera",
+                "mana saja tempat wisata yang ada di Sumatera ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya yang ada di Sumatera mana ya, Karena untuk area Sumatera masih terbagi dengan 3 Provinsi yaitu Sumatera Utara, Sumatera Selatan dan Sumatera Barat, Silahkan pilih salah satu ya.....😊"
+            ]
+        },
+        {
             "tag": "destinasi_sumatera_utara",
             "patterns": [
                 "Destinasi yang ada di sumatera utara",
@@ -162,6 +246,19 @@
             ],
             "responses": [
                 "Salah satu tempat wisata yang ada di Sumatera Utara yaitu Danau Toba, Pulau Samosir, Museum Perjuangan TNI, Kebun Binatang Medan dan Taman Buaya Medan "
+            ]
+        },
+        {
+            "tag": "danau_toba",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Danau Toba ? ",
+                "Apa yang kamu ketahui tentang Danau Toba ?",
+                "Apa yang bisa kamu jelaskan mengenai Danau Toba ?",
+                "Danau Toba",
+                "kisah Danau Toba"
+            ],
+            "responses": [
+                "Danau Toba terbentuk oleh letusan gunung berapi beberapa abad yang lalu. Danau yang yang merupakan destinasi wisata fovorit ini juga merupakan ikon Sumatera Utara. Terdapat banyak penginapan disana jika ingin bermalam disana"
             ]
         },
         {
@@ -330,6 +427,26 @@
             ]
         },
         {
+            "tag": "destinasi jawa barat",
+            "patterns": [
+                "Destinasi apa saja yang ada di Jawa Barat? ",
+                "tempat wisata yang ada di Jawa Barat apa saja?",
+                "mana saja tempat wisata yang ada di Jawa Barat?",
+                "Destinasi yang ada di Jawa Barat",
+                "tempat wisata yang ada di Jawa Barat",
+                "wisata Jawa Barat",
+                "tempat wisata Jawa Barat",
+                "destinasi Jawa Barat",
+                "wisata Jawa Barat",
+                "wisata di Jawa Barat",
+                "destinasi di Jawa Barat",
+                "mana saja tempat wisata yang ada di Jawa Barat ?"
+            ],
+            "responses": [
+                "Tempat Wisata yang ada di Jawa Barat salah satunya yang wajib kalian kunujungi yaitu ada pantai Ujung genteng yang berada di (Ciracap, Sukabumi, Jawa Barat, Indonesia), Pantai Pasir Putih yang berada di (Pangandaran, Ciamis, jabar), Pantai Pelabuha nratu yang terletak di (Kecamatan Pelabuhan Ratu, Sukabumi),Taman Nasional Gunung Halimun Salak yang berada di (Jl. Raya Cipanas, Kabandungan, Sukabumi Regency) dan Petilasan Prabu Siliwangi yang berada di (Pajajar, rajagaluh, Majalengka)"
+            ]
+        },
+        {
             "tag": "destinasi_Jakarta",
             "patterns": [
                 "Destinasi apa saja yang ada di Jakarta? ",
@@ -346,7 +463,7 @@
                 "mana saja tempat wisata yang ada di Jakarta ?"
             ],
             "responses": [
-                "tempat wisata yang ada di Jakarta, diantaranya yaitu Tugu Proklamasi, Masjid Istiqlal, dan Museum Sumpah Pemuda. "
+                "Tempat wisata yang ada di Jakarta, diantaranya yaitu Tugu Proklamasi, Masjid Istiqlal, dan Museum Sumpah Pemuda. "
             ]
         },
         {
@@ -466,6 +583,27 @@
             ]
         },
         {
+            "tag": "jawa",
+            "patterns": [
+                "wisata jawa",
+                "Destinasi yang ada di jawa",
+                "Destinasi apa saja yang ada di Jawa  ",
+                "tempat wisata yang ada di Jawa apa saja?",
+                "mana saja tempat wisata yang ada di Jawa ",
+                "tempat wisata yang ada di Jawa",
+                "wisata Jawa",
+                "tempat wisata Jawa",
+                "destinasi Jawa",
+                "wisata Jawa",
+                "wisata di Jawa",
+                "destinasi di Jawa",
+                "mana saja tempat wisata yang ada di Jawa ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya di Jawa Mana nih, Karena untuk area Jawa masih terbagi dengan 3 Provinsi yaitu Jawa Timur, Jawa Tengah dan Jawa Barat, Silahkan pilih salah satu ya.....😊"
+            ]
+        },
+        {
             "tag": "destinasi_jawa_timur",
             "patterns": [
                 "Destinasi yang ada di jawa timur",
@@ -483,6 +621,27 @@
             ],
             "responses": [
                 "salah satu tempat wisata yang ada di jawa timur yaitu Kelenteng Sanggar Agung, Atlantis Land Surabaya, Museum De Javasche Bank, Taman Pantai Ria Kenjeran, wisata perahu kalimas surabaya"
+            ]
+        },
+        {
+            "tag": "Kalimantan",
+            "patterns": [
+                "wisata Kalimantan",
+                "Destinasi yang ada di Kalimantan",
+                "Destinasi apa saja yang ada di Kalimantan  ",
+                "tempat wisata yang ada di Kalimantan apa saja?",
+                "mana saja tempat wisata yang ada di Kalimantan ",
+                "tempat wisata yang ada di Kalimantan",
+                "wisata Kalimantan",
+                "tempat wisata Kalimantan",
+                "destinasi Kalimantan",
+                "wisata Kalimantan",
+                "wisata di Kalimantan",
+                "destinasi di Kalimantan",
+                "mana saja tempat wisata yang ada di Kalimantan ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya yang ada di Kalimantan mana nih, Karena untuk area Kalimantan masih terbagi dengan 5 Provinsi yaitu Kalimantan Barat, Kalimantan Timur, Kalimantan Selatan, Kalimantan Tengah dan Kalimantan Utara. Silahkan pilih salah satu ya.....😊"
             ]
         },
         {
@@ -706,6 +865,25 @@
             ],
             "responses": [
                 "Berikut adalah beberapa objek wisata ternama yang ada di Provinsi Gorontalo : Pulau Saronde, Pulo Cinta, Wisata Hiu Paus, Benteng Otanaha, Menara Pakaya Limboto, Air Terjun Ayuhulalo, Air Terjun Taludaa, Danau Perintis, Monumen Nani Wartabone, Taman Laut Bitila, Pantai Bolihutuo, Panorama Alam Gunung Tilongkabila, Pantai Kelapa Dua dan Pohon Cinta"
+            ]
+        },
+        {
+            "tag": "Sulawesi",
+            "patterns": [
+                "wisata Sulawesi",
+                "Destinasi yang ada di Sulawesi",
+                "Destinasi apa saja yang ada di Sulawesi  ",
+                "tempat wisata yang ada di Sulawesi apa saja?",
+                "mana saja tempat wisata yang ada di Sulawesi ",
+                "tempat wisata yang ada di Sulawesi",
+                "tempat wisata Sulawesi",
+                "destinasi Sulawesi",
+                "wisata di Sulawesi",
+                "destinasi di Sulawesi",
+                "mana saja tempat wisata yang ada di Sulawesi ?"
+            ],
+            "responses": [
+                "Kamu Mau tau seputar wisata dan budaya yang ada di Sulawesi Mana nih, Karena untuk Sulawesi masih terbagi dengan 5 Provinsi loh yaitu Sulawesi Barat, Sulawesi Tengah, Sulawesi Utara, Sulawesi Tenggara dan Sulawesi Selatan. Silahkan pilih salah satu ya.....😊"
             ]
         },
         {
@@ -1055,7 +1233,7 @@
                 "mana saja tempat wisata yang ada di papua?"
             ],
             "responses": [
-                "tempat wisata yang ada di Papua Barat, diantaranya yaitu Gunung Arfak, Pulau Mansinam, Pantai Bakaro, Pantai Pasir Putih Yen Baba dan Pantai Syari. "
+                "tempat wisata yang ada di Papua, diantaranya yaitu Gunung Arfak, Pulau Mansinam, Pantai Bakaro, Pantai Pasir Putih Yen Baba dan Pantai Syari. "
             ]
         },
         {
