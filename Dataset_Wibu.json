@@ -159,7 +159,7 @@
                 "kisah museum sunami"
             ],
             "responses": [
-                "Museum Tsunami terletak di (Jl. Sultan Iskandar Muda, No. 3, Sukaramai, Kecamatan Baiturrahman, Kota Banda Aceh, Aceh.), di dalam Museum Tsunami Aceh di dalamnya menyimpan nama -anama dari korban Tsunami pada tahun 2004, selain itu ada pula 22 alat peraga, 7 paket dan 26 foto mengenai tsunami. Untuk masuk kedalamnya harus membayar tiket sebesar 2rb hingga 10rb disana buka jam 09.00 - 16.00"
+                "Museum Tsunami terletak di (Jl. Sultan Iskandar Muda, No. 3, Sukaramai, Kecamatan Baiturrahman, Kota Banda Aceh, Aceh.), di dalam Museum Tsunami Aceh di dalamnya menyimpan nama - nama dari korban Tsunami pada tahun 2004, selain itu ada pula 22 alat peraga, 7 paket dan 26 foto mengenai tsunami. Untuk masuk kedalamnya harus membayar tiket sebesar 2rb hingga 10rb disana buka jam 09.00 - 16.00"
             ]
         },
         {
@@ -176,7 +176,7 @@
             ]
         },
         {
-            "tag": "Danau_Lut_Tawar",
+            "tag": "Danau Lut Tawar",
             "patterns": [
                 "Bisakah kamu ceritakan mengenai Danau Lut Tawar ? ",
                 "Apa yang kamu ketahui tentang Danau Lut Tawar ?",
@@ -191,6 +191,13 @@
         {
             "tag": "Air_Terjun_Blang_Kolam",
             "patterns": [
+                "Bisakah kamu ceritakan mengenai Air terjun Blang Kolam ? ",
+                "Apa yang kamu ketahui tentang Air terjun Blang Kolam ?",
+                "Apa yang bisa kamu jelaskan mengenai Air terjun Blang Kolam ?",
+                "Air terjun Blang Kolam",
+                "kisah Air terjun Blang Kolam"
+            ],
+            "responses": [
                 "Air Terjun Blang Kolam ialah sebuah air terjun yang memiliki ketinggian sekitar 75 meter, dengan kedalaman kolamnya antara 1 hingga 3 meter. Untuk menuju Air Terjun Blang Kolam, kamu harus melakukan trekking menuruni anak tangga terlebih dahulu. Karena memang lokasinya masih tersembunyi. Selain bermain air, di tempat wisata Aceh yang satu ini kamu juga dapat melakukan camping bersama komunitas para pecinta alam."
             ]
         },
