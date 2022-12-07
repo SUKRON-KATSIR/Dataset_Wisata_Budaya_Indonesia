@@ -151,12 +151,7 @@
                 "Apa yang kamu ketahui tentang museum tsunami ?",
                 "Apa yang bisa kamu jelaskan mengenai museum tsunami ?",
                 "museum tsunami",
-                "kisah museum tsunami",
-                "Bisakah kamu ceritakan mengenai museum sunami ? ",
-                "Apa yang kamu ketahui tentang museum sunami ?",
-                "Apa yang bisa kamu jelaskan mengenai museum sunami ?",
-                "museum sunami",
-                "kisah museum sunami"
+                "kisah museum tsunami"
             ],
             "responses": [
                 "Museum Tsunami terletak di (Jl. Sultan Iskandar Muda, No. 3, Sukaramai, Kecamatan Baiturrahman, Kota Banda Aceh, Aceh.), di dalam Museum Tsunami Aceh di dalamnya menyimpan nama - nama dari korban Tsunami pada tahun 2004, selain itu ada pula 22 alat peraga, 7 paket dan 26 foto mengenai tsunami. Untuk masuk kedalamnya harus membayar tiket sebesar 2rb hingga 10rb disana buka jam 09.00 - 16.00"
@@ -268,6 +263,58 @@
             ]
         },
         {
+            "tag": "Pualau_Samosir",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Pulau Samosir ? ",
+                "Apa yang kamu ketahui tentang Pulau Samosir ?",
+                "Apa yang bisa kamu jelaskan mengenai Pulau Samosir ?",
+                "Pulau Samosir",
+                "kisah Pulau Samosir"
+            ],
+            "responses": [
+                "Pulau Samosir merupakan sebuah pulau yang terletak di tengah - tengah Danau Toba. Untuk mencapai paulau yang memiliki ketinggian 1000 meter di atas permukaan laut harus menggunakan kapal ferry dan bisa juga dengan menggunakan jalur darat. Disini kita bisa menjumpai pemandangan yang indah dan menarik. Di pulau ini juga terdapat pemandian air panas."
+            ]
+        },
+        {
+            "tag": "Museum_perjuanganTNI",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Museum Perjuangan TNI ? ",
+                "Apa yang kamu ketahui tentang Museum Perjuangan TNI ?",
+                "Apa yang bisa kamu jelaskan mengenai Museum Perjuangan TNI ?",
+                "Museum Perjuangan TNI",
+                "kisah Museum Perjuangan TNI"
+            ],
+            "responses": [
+                "Museum Perjuangan TNI dibuka pada tahun 1971 di dalamnya tersimpan banyak benda-benda bersejarah pada masa perjuangan kemerdekaan Indonesia melawan pemberontakan pada tahun 1958, pada museum ini memberikan gambaran perjuangan pahlawan di masa lalu dan museum ini terletak di jln.Zainul Arifin, Kota Medan"
+            ]
+        },
+        {
+            "tag": "kebun_binatang_Medan",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Kebun Binatang Medan ? ",
+                "Apa yang kamu ketahui tentang Kebun Binatang Medan ?",
+                "Apa yang bisa kamu jelaskan mengenai Kebun Binatang Medan ?",
+                "Kebun Binatang Medan",
+                "kisah Kebun Binatang Medan"
+            ],
+            "responses": [
+                "Kebun binatang Medan ini terletak di Jl.Brigjen Katamso, Kp.baru, Medan Maimun, Kota Medan atau berjarak sekitar 10km dari pusat kota. untuk tarif masuknya yaitu 7rb dan buka setiap hari jam 09.00 - 17.00 wib, didalam kebun binatang tersebut terdapat banyak macam koleksi hewan tropis, hewan mamalia seperti Harimau, Gajah, Singa dan Beruang"
+            ]
+        },
+        {
+            "tag": "taman_buaya_medan",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai Taman Buaya Medan ? ",
+                "Apa yang kamu ketahui tentang Taman Buaya Medan ?",
+                "Apa yang bisa kamu jelaskan mengenai Taman Buaya Medan ?",
+                "Taman Buaya Medan",
+                "kisah Taman Buaya Medan"
+            ],
+            "responses": [
+                "Taman Buaya Medan ini telah dihuni kurang lebih 2600ekor buaya yang di pelihara dimulai sejak tahun 1959. Taman Buaya ini terletak di kelurahan Asam Kumbang Kecamatan Medan Selayang. Di taman ini kita kamu bisa melihat buaya yan baru lahir sampai buaya yang berusia 25 tahun dan sebagian buaya telah di latih untuk antraksi yang menkjubkan. Taman Buaya Medan Ini terletak di Jln. Bunga Raya II No. 59 Sunggal dan buka jam 09.00 - 17.00 wib"
+            ]
+        },
+        {
             "tag": "destinasi_Sumatera_selatan",
             "patterns": [
                 "Destinasi yang ada di Sumatera selatan",
@@ -373,6 +420,73 @@
             ]
         },
         {
+            "tag": "Gunung_Tujuh",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai gunung tujuh ? ",
+                "Apa yang kamu ketahui tentang gunung tujuh ?",
+                "Apa yang bisa kamu jelaskan mengenai gunung tujuh ?",
+                "gunung tujuh",
+                "kisah gunung tujuh",
+                "Bisakah kamu ceritakan mengenai Danau gunung tujuh ? ",
+                "Apa yang kamu ketahui tentang Danau gunung tujuh ?",
+                "Apa yang bisa kamu jelaskan mengenai Danau gunung tujuh ?",
+                "Danau gunung tujuh",
+                "kisah Danau gunung tujuh",
+                "Bisakah kamu ceritakan mengenai danau gunung 7 ? ",
+                "Apa yang kamu ketahui tentang danau gunung 7 ?",
+                "Apa yang bisa kamu jelaskan mengenai danau gunung 7 ?",
+                "danau gunung 7",
+                "kisah danau gunung 7"
+            ],
+            "responses": [
+                "Danau ini dinobatkan menjadi danau vulkanik tertinggi se-Asia Tenggara, danau ini sangat jernih dan terjaga, danau ini tidak tereksplor sehingga sedikit orang yang mengetahuinya. Jadi, buat kalian yang ingin sendiri atau menjauh dari keramaian kami sarankan untuk mendatangi danau ini. danau ini berada di (Pesisir Bukit, Gn Tujuh, Kerinci, Jambi)"
+            ]
+        },
+        {
+            "tag": "Danau_Kaco",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai danau Kaco ? ",
+                "Apa yang kamu ketahui tentang danau Kaco ?",
+                "Apa yang bisa kamu jelaskan mengenai danau Kaco ?",
+                "danau Kaco",
+                "kisah danau Kaco"
+            ],
+            "responses": [
+                "Danau Kaco memiliki keunikan yang khas yang jarang dimiliki oleh danau-danau lain yang ada di Indonesia. Keunikan tersebut seperti Danau Kaco dapat mengeluarkan cahaya yang terang, terutama pada saat bulan purnama. Warna air di danau ini adalah cyan atau hijau kebiruan yang sangat jernih dan berkilau di malam hari. Menurut kepercayaan warga setempat, cahaya yang dikeluarkan dari dasar Danau Kaco merupakan cahaya intan yang tersimpan di dasar air. Intan tersebut disimpan oleh Raja Gagak, yang berkuasa pada saat itu.  Menurut sesepuh desa, intan yang disimpan Raja Gagak di dasar Danau Kaco adalah intan titipan yang merupakan ikatan janji pangeran-pangeran yang ingin melawar putri Raja Gagak yang bernama Putri Napal Melintang. Semua lamaran anak raja yang di Kerinci diterima oleh Raja Gagak, akhirnya dia kebingungan ingin nerima pelamar yang mana. Putri Nepal Melintang sendiri dikenal dengan wajah yang sangat cantik sehingga ia disukai oleh pemuda yang ada pada zaman itu. Bahkan karena kecantikannya ia disukai oleh ayahnya sendiri, Raja Gagak membawa lari putrinya beserta perhiasan Intannya yang dititipkan oleh pengeran sebagai tanda janji.  Konon intan yang dibawa lari oleh Raja Gagak disimpan di dasar Danau Kaco. Sampai saat ini warga Desa Lempur, Kecamatan Gunung Raya masih mempercayai bahwa intan tersebut masih tersimpan di dasar danau. Tempat wisata ini berada di ( Dusun Baru Lempur, Gn Raya Kerinci Jambi )"
+            ]
+        },
+        {
+            "tag": "Tugu_keris_siginjai",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai tugu keris siginjai ? ",
+                "Apa yang kamu ketahui tentang tugu keris siginjai ?",
+                "Apa yang bisa kamu jelaskan mengenai tugu keris siginjai ?",
+                "tugu keris siginjai",
+                "kisah tugu keris siginjai"
+            ],
+            "responses": [
+                "Tugu Keris Siginjai adalah sebuah tugu atau monumen yang merupakan ikon dari Kota Jambi. Bentuknya menyerupai keris siginjai yakni keris kerajaan Jambi. Tugu ini memiliki tinggi sekitar 9 meter dan tinggi keseluruhannya sekitar 28 meter. Letaknya tepat berada dipusat perkantoran Wali Kota Jambi, Kota Baru. Tugu keris siginjai diresmikan oleh Wali Kota Jambi, Syarif Fasha tanggal 31 Desember 2017 atau pada tahun baru 2018. Sebelum direnovasi menjadi tugu keris siginjai, tugu ini adalah tugu jam atau dikenal juga dengan tugu monas, karena bentuknya menyerupai monas yang berada di Jakarta."
+            ]
+        },
+        {
+            "tag": "masjid_agung_al_falah",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai masjid alfalah ? ",
+                "Apa yang kamu ketahui tentang masjid alfalah ?",
+                "Apa yang bisa kamu jelaskan mengenai masjid alfalah ?",
+                "masjid alfalah",
+                "kisah masjid alfalah",
+                "Bisakah kamu ceritakan mengenai masjig agung al falah ? ",
+                "Apa yang kamu ketahui tentang masjig agung al falah ?",
+                "Apa yang bisa kamu jelaskan mengenai masjig agung al falah ?",
+                "masjig agung al falah",
+                "kisah masjig agung al falah"
+            ],
+            "responses": [
+                "Masjid Agung Al-Falah merupakan masjid terbesar di Jambi, Indonesia. Masjid ini juga dikenal sebagai Masjid 1000 Tiang, meskipun jumlah tiangnya hanya 256. Masjid ini dibangun pada tahun 1971 dan selesai pada tahun 1980, bangunannya memang hanya seperti sebuah pendopo terbuka dengan banyak tiang penyangga dan satu kubah besar di atasnya. Lokasi Masjid Agung ini berdiri, dulunya merupakan pusat kerajaan Melayu Jambi, bekas istana Tanah Pilih dari Sultan Thaha Syaifuddin. Tanah lokasi di mana Masjid Agung ini berdiri, dulunya merupakan pusat kerajaan Melayu Jambi. Namun pada tahun 1885 dikuasai penjajah Belanda dan dijadikan pusat pemerintahan dan benteng Belanda. Hal tersebut sejalan dengan penjelasan sejarawan Jambi, Junaidi T Nur, bahwa Mesjid Agung Al falah ini berdiri di lahan bekas Istana Tanah Pilih dari Sultan Thaha Syaifuddin.  gagasan pembangunan Masjid Agung sudah mengemuka tahun 1960-an oleh pemerintah Jambi, beserta tokoh tokoh Islam Jambi. Namun, proses pembangunan masjid baru dimulai tahun 1971. Para alim ulama dan tokoh tokoh Jambi di antaranya M.O. Bafaddal, H Hanafi, Nurdin Hamzah, dan gubernur saat itu (Tambunan atau Nur Admadibrata ) Sepakat untuk membangun masjid agung di lokasi tersebut dan dan merelokasi asrama TNI. Salah satu alasan kenapa masjid yang dibangun di lokasi bersejarah tersebut adalah mengacu pada lambang Jambi yang terdapat gambar Masjid. Masjid Agung Al-falah kota Jambi diresmikan penggunaannya oleh presiden Soeharto pada tanggal 29 September 1980."
+            ]
+        },
+        {
             "tag": "destinasi_Lampung",
             "patterns": [
                 "Destinasi apa saja yang ada di Lampung? ",
@@ -390,6 +504,58 @@
             ],
             "responses": [
                 "tempat wisata yang ada di Lampung, diantaranya yaitu Vihara Thay Hin Bio, Istana Sekala Brak, Monumen Gunung Krakatau, dan Museum Lampung Ruwa Jurai. "
+            ]
+        },
+        {
+            "tag": "vihara_thay_hin_bio",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai vihara thay hin bio ? ",
+                "Apa yang kamu ketahui tentang vihara thay hin bio ?",
+                "Apa yang bisa kamu jelaskan mengenai vihara thay hin bio ?",
+                "vihara thay hin bio",
+                "kisah vihara thay hin bio"
+            ],
+            "responses": [
+                "Sejarah panjangnya bermula ketika orang dari Tiongkok bernama Po Heng datang membawa patung Dewi Kwan Im pada tahun 1850. Patung tersebut menarik perhatian masyarakat, sehingga muncul gagasan untuk membangun tempat ibadah yang dapat digunakan bersama – sama. Akhirnya, pada tahun yang sama, masyarakat sekitar bersama – sama membangun cettiya yang diberi nama Avalokiteswara. Cettiya Avalokiteswara dulu dibangun di tempat yang sekarang menjadi lokasi gudang agen. Karena banjir akibat letusan Krakatau tahun 1883, bangunannya rusak, sehingga patung sang Dewi harus dipindahkan. Pemindahan patung dilakukan oleh Po Heng. Ia membawa patung tersebut ke tempat yang disebut “tanjakan residen”. Tiga belas tahun kemudian yaitu pada 1896, cettiya yang baru didirikan di tempat ini. Cetiya tersebut diberi nama Kuan Im Thing atau persinggahan Dewi Kuan Im. Pembangunannya dibiayai oleh masyarakat. Mereka menggalang dana kemudian menyerahkannya pada Yayasan Mahopadi. Yayasan inilah yang kemudian membangun cettiya Kuan Im Thing. Tanggal 1 Oktober 1898, pemerintah Belanda mengeluarkan izin bangunan. Sejak itu, jalan di depan cettiya disebut jalan Kelenteng. Dua puluh satu tahun kemudian, tepatnya pada 1927, beberapa orang dikirim ke Tiongkok untuk memohon bhikhu atau biksu. Hal ini ditanggapi positif, Tiongkok mengutus Bhikhu Sek Te Thi untuk mengajarkan Dharma Buddha dan membimbing upacara doa. Kedatangan Bikkhu Sek Te Thi menarik perhatian pengunjung. Dari waktu ke waktu jumlah pengunjung cettiya semakin banyak, sehingga bangunannya harus direnovasi. Tahun 1963 cettiya Kwan Im Thing direnovasi. Renovasi selesai dilakukan tahun 1967, terhambat karena pemberontakan G30S / PKI tahun 1965. Pasca renovasi, cettiya berganti nama menjadi Vihara Thay Hin Bio yang berarti vihara yang besar dan jaya."
+            ]
+        },
+        {
+            "tag": "istana_sekala_brak",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai istana sekala brak ? ",
+                "Apa yang kamu ketahui tentang istana sekala brak ?",
+                "Apa yang bisa kamu jelaskan mengenai istana sekala brak ?",
+                "istana sekala brak",
+                "kisah istana sekala brak"
+            ],
+            "responses": [
+                "Beratus-ratus tahun sebelum semodern sekarang, Lampung pernah menjadi pusat Kerajaan Sekala Brak yang kelak diabadikan sebagai leluhurnya orang-orang sana. Di lereng Gunung Persagi, Lampung Barat, Anda bisa menjumpai bekas istana Kerajaan Sekala Brak yang kini dijadikan sebagai situs budaya. Istana Sekala Brak—yang kemudian difungsikan sebagai objek wisata di Lampung—berdiri di atas tanah seluas 3.000 meter. Tahun 1810, Belanda pernah menghancurkannya. Namun, oleh pemerintah setempat Istana Sekala Brak dibangun kembali dan diberi nama baru Gedung Dalom."
+            ]
+        },
+        {
+            "tag": "monumen_gunung_krakatau",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai monumen gunung krakatau ? ",
+                "Apa yang kamu ketahui tentang monumen gunung krakatau ?",
+                "Apa yang bisa kamu jelaskan mengenai monumen gunung krakatau ?",
+                "monumen gunung krakatau",
+                "kisah monumen gunung krakatau"
+            ],
+            "responses": [
+                "Gunung Krakatau pernah meletus hebat tahun 535 M yang menyebabkan terbentuknya Selat Sunda, hilangnya peradaban orang Pasemah Lampung dan Salakanegara Banten selama sekitar 20-30 tahun. Ledakan Gunung Krakatau menyebabkan tsunami, langit gelap, dan cuaca dingin. Pada tahun 1680, pernah terjadi letusan juga, Peristiwa itu pun masih berlanjut terulang kembali yang menyebabkan Krakatau sirna lagi karena letusan kataklismik pada tanggal 26-27 Agustus 1883. Pada tahun 2019, kawasan yang sekarang merupakan cagar alam ini memiliki empat pulau kecil: Pulau Rakata, Pulau Anak Krakatau, Pulau Sertung, dan Pulau Panjang (Rakata Kecil). Berdasarkan kajian geologi, semua pulau ini berasal dari sistem gunung berapi tunggal Krakatau yang pernah ada di masa lalu. Krakatau dikenal dunia karena letusan yang sangat dahsyat pada tahun 1883. Awan panas dan tsunami yang diakibatkannya menewaskan sekitar 36.000 jiwa. Sampai sebelum tanggal 26 Desember 2004, tsunami ini adalah yang terdahsyat di kawasan Samudra Hindia. Suara letusan itu terdengar sampai ke Alice Springs, Australia dan Pulau Rodrigues dekat Afrika, 4.653 kilometer. Daya ledaknya diperkirakan mencapai 30.000 kali bom atom yang diledakkan di Hiroshima dan Nagasaki di akhir Perang Dunia II.  Maka dari itu dibuatlah monument gunung Krakatau untuk mengenang terjadinya bencana tersebut. "
+            ]
+        },
+        {
+            "tag": "museum_lampung_ruwa_jurai",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai museum lampung ruwa jurai ? ",
+                "Apa yang kamu ketahui tentang museum lampung ruwa jurai ?",
+                "Apa yang bisa kamu jelaskan mengenai museum lampung ruwa jurai ?",
+                "museum lampung ruwa jurai",
+                "kisah museum lampung ruwa jurai"
+            ],
+            "responses": [
+                "Museum juga terdapat koleksi yang ditampilkan antara lain koleksi benda budaya yang mewakili dua Komunitas adat dan budaya yang dominan di Lampung, yakni (Saibatin) dan (Penyimbang / Pepadun), kedua komunitas adat dan budaya ini masing-masing memiliki kekhasan dalam hal ritual adat dan budaya serta perangkat atau aksesoris alat pegang pakai, seperti kain tradisional khas Lampung, kain tapis. Rangkaian ritual kedua komunitas adat dan budaya masing-masing ditampilkan berurutan, mulai dari ritual lapahan, bedu’a, kelahiran, cukuran, asah gigi menjelang dewasa, pernikahan, hingga ritual kematian dan sebagainya, museum ini juga menyimpan beberapa peninggalan Radin Intan yang merupakan pahlawan Lampung dan keturunannya, seperti senjata dan lainnya."
             ]
         },
         {
@@ -413,23 +579,140 @@
             ]
         },
         {
+            "tag": "mercusuar_tanjung_kalian",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai mercusuar tanjung kalian ? ",
+                "Apa yang kamu ketahui tentang mercusuar tanjung kalian ?",
+                "Apa yang bisa kamu jelaskan mengenai mercusuar tanjung kalian ?",
+                "mercusuar tanjung kalian",
+                "kisah mercusuar tanjung kalian"
+            ],
+            "responses": [
+                "Wisata Sejarah di Belitung merupakan salah satu bangunan peninggalan Belanda yang saat ini bisa kita saksikan bersama kekokohannya. Kota Mentok yang dibangun oleh Belanda sebagai kota pelabuhan menjadi salah satu kota sentral dalam mengatur berbagai macam distribusi kebutuhan saat itu. Karena banyaknya kapal yang akan berlabuh, pada akhirnya Belanda menganggap perlu dibangunnya sebuah mercusuar sebagai penanda tempat labuh kapal yang bersiap menepi. Mercusuar Tanjung Kalian dibangun pada tahun 1862 dan masih kokoh hingga sekarang. Dari puncak bangunan ini, pengunjung bisa menyaksikan indahnya seantero kota Mentok dan sekitarnya."
+            ]
+        },
+        {
+            "tag": "museum_timah_muntok",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai museum timah muntok ? ",
+                "Apa yang kamu ketahui tentang museum timah muntok ?",
+                "Apa yang bisa kamu jelaskan mengenai museum timah muntok ?",
+                "museum timah muntok",
+                "kisah museum timah muntok"
+            ],
+            "responses": [
+                "Museum Timah Muntok adalah salah satu museum yang harus kamu kunjungi saat ke Pulau Bangka untuk mengetahui sedikit banyak tentang pertambangan timah dan perkembangan budaya Melayu. Bangunan museum ini merupakan kantor penambangan timah pada zaman penjajahan Belanda yang juga berfungsi sebagai pusat pemerintahan Belanda di Pulau Bangka. Arsitektur khas Eropanya masih terawat dan tampak megah mesti sudah ada sejak tahun 1915. Dibuka untuk umum sejak 7 November 2013, museum ini memiliki 176 koleksi dan 9 galeri yang menampilkan penambangan timah, sejarah Bangka, Perang Dunia ke II hingga sejarah pengasingan Bung Karno. Berbagai prasasti hingga alat pertambangan timah berumur ratusan tahun terpajang rapi di museum ini. Oiya, kamu juga bisa menikmati tayangan audio visual peristiwa bersejarah di Bangka Belitung di sini. "
+            ]
+        },
+        {
+            "tag": "wisma_ranggam",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai wisma ranggam ? ",
+                "Apa yang kamu ketahui tentang wisma ranggam ?",
+                "Apa yang bisa kamu jelaskan mengenai wisma ranggam ?",
+                "wisma ranggam",
+                "kisah wisma ranggam"
+            ],
+            "responses": [
+                "Wisma Ranggam atau Pesanggrahan Muntok merupakan bangunan bersejarah di Kota Muntok, Bangka Barat yang dibangun pada tahun 1890 oleh pemerintah kolonial Belanda. Bangunan bergaya Eropa ini merupakan tempat pengasingan banyak tokoh-tokoh penting seperti Menteri Luar Negeri Agus Salim dan Wakil Perdana Menteri M Roem. Wisma ini punya enam belas kamar yang satu di antaranya pernah ditinggali oleh Presiden Soekarno, Selain bisa melihat ruang pengasingan, kamu juga bisa leluasa berfoto di halamannya yang luas banget. Karena keunikan arsitektur bangunannya, daerah Wisma Ranggam ini disebut sebagai Kampung Eropa di Bangka. Karena keindahannya, pantas saja Wisma Ranggam ini dijadikan salah satu cagar budaya Indonesia. Nah, untuk mencapai tempat ini dibutuhkan waktu sekitar 2,5 jam berkendara dari pusat kota Pangkal Pinang."
+            ]
+        },
+        {
+            "tag": "museum_garuda",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai museum garuda ? ",
+                "Apa yang kamu ketahui tentang museum garuda ?",
+                "Apa yang bisa kamu jelaskan mengenai museum garuda ?",
+                "museum garuda",
+                "kisah museum garuda"
+            ],
+            "responses": [
+                "Museum Garuda memang letaknya berdekatan dengan Pantai Tongaci yang terkenal dengan laut biru toscanya. Ketika berkunjung, kamu akan melihat koleksi-koleksi antik yang akan membuatmu berdecak kagum. Koleksinya sudah berumur puluhan tahun lho! Nama Garuda disematkan karena banyak sekali patung indah seperti patung Burung Garuda yang langsung didatangkan dari Bali. Di samping museum, terdapat bangunan kayu 2 lantai yang berisi galeri dan perpustakaan. Deretan buku dari zaman kuno hingga masa sekarang terlihat tertata rapi di lantai satu. Untuk lantai 2, kamu bisa menikmati beragam lukisan cantik serta beberapa dokumen penting sebelum dan sesudah kemerdekaan."
+            ]
+        },
+        {
+            "tag": "pesanggrahan_manumbing",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai pesanggrahan manumbing ? ",
+                "Apa yang kamu ketahui tentang pesanggrahan manumbing ?",
+                "Apa yang bisa kamu jelaskan mengenai pesanggrahan manumbing ?",
+                "pesanggrahan manumbing",
+                "kisah pesanggrahan manumbing"
+            ],
+            "responses": [
+                "Rumah Pesanggrahan Menumbing adalah salah satu lokasi dari beberapa rumah pengasingan yang pernah di gunakan oleh Bung Karno. Sebagaimana yang kita ketahui bersama bahwa sosok Bung Karno memang merupakan salah satu sosok yang cukup diwaspadai oleh Belanda. Apalagi dengan status beliau yang juga seorang proklamator bapak pendiri bangsa, maka tak mengherankan jika Bung Karno acap kali dibuang dan di asingkan untuk menjauhkan beliau dari pusat pemerintahan. Rumah yang berada di i Tanjung, Mentok, Kabupaten Bangka Barat, Kepulauan Bangka Belitung, ini merupakan salah satu lokasi yang pernah digunakan Belanda untuk mengasingkan Bung Karno dan Bung Hatta. Namun, pada dasarnya tidak hanya kedua Tokoh Nasional itu saja yang pernah di asingkan d rumah ini. ada beberapa tokoh Nasional lain yang juga pernah diasingkan di rumah ini. Tapi, mungkin memang hanya Bung Karno dan Bung Hatta yang paling berkesan dan dikenal. Kedua Tokoh nasional tersebut di asingkan ke lokasi ini pada Bulan Februari 1949. Sebagaimana yang kita ketahui bahwa pada tahun tersebut memang Belanda sedang melangsungkan Serangan ke Ibukota Negara Indonesia. Jika kita berkunjung ke gedung ini maka kita akan bisa melihat beragam barang yang pernah digunakan oleh Bung Karno dan Bung Hatta selama menempati rumah ini. Namun, kini Pesanggrahan ini telah berubah fungsi menjadi sebuah penginapan yang cukup menarik dan bisa dikatakan cukup mewah."
+            ]
+        },
+        {
             "tag": "destinasi_Banten Serang",
             "patterns": [
-                "Destinasi apa saja yang ada di Banten Serang? ",
-                "tempat wisata yang ada di Banten Serang apa saja?",
-                "mana saja tempat wisata yang ada di Banten Serang?",
-                "Destinasi yang ada di Banten Serang",
-                "tempat wisata yang ada di Banten Serang",
-                "wisata Banten Serang",
-                "tempat wisata Banten Serang",
-                "destinasi Banten Serang",
-                "wisata Banten Serang",
-                "wisata di Banten Serang",
-                "destinasi di Banten Serang",
-                "mana saja tempat wisata yang ada di Banten Serang ?"
+                "Destinasi apa saja yang ada di Banten? ",
+                "tempat wisata yang ada di Banten apa saja?",
+                "mana saja tempat wisata yang ada di Banten?",
+                "Destinasi yang ada di Banten",
+                "tempat wisata yang ada di Banten",
+                "wisata Banten",
+                "tempat wisata Banten",
+                "destinasi Banten",
+                "wisata Banten",
+                "wisata di Banten",
+                "destinasi di Banten",
+                "mana saja tempat wisata yang ada di Banten ?"
             ],
             "responses": [
                 "tempat wisata yang ada di Banten Serang, diantaranya yaitu Kapal Bosok, Benteng Speelwijk, Keraton Surosowan, Gedung Juang 45. "
+            ]
+        },
+        {
+            "tag": "kapal_bosok",
+            "patterns": [
+                "Bisakah kamu ceritakan mengenai kapal bosok ? ",
+                "Apa yang kamu ketahui tentang kapal bosok ?",
+                "Apa yang bisa kamu jelaskan mengenai kapal bosok ?",
+                "kapal bosok",
+                "kisah kapal bosok"
+            ],
+            "responses": [
+                "Tepatnya selama 4 tahun ke 17 Santri Pesantren Darul Salam membangun masjid berbentuk kapal. Tepatnya ada di lingkungan Drangong, Kelurahan Curugmanis, Kota Serang. Sejarah Kapal Bosok dibangun karena ada sebuah cerita tentang keberadaan kapal yang membusuk di kampung itu. Kemudian jadilah Masjid Kapal Bosok yang artinya masjid kapal yang membusuk gengs. sejarah Kapal Bosok bermula pada kisaran abad ke-16. Saat itu ada penjajah yang bersandar di pelabuhan Karangantu, Serang.  Ternyata mereka berkehendak untuk menjajah dan mengambil segala sesuatu di sana. Karena gak terima dengan perlakuak Belanda, ada seorang lelaki yang bernama Ki Angga Derpa yang ingin menyelamatkan dokumen dan harta kekayaan di daerahnya. Ki Angga nyabut beringin. Di dalamnya ada tempurung isinya 2 macan. Laki dan betina yang ada anak kecilnya. Dibawa beringin ke kerumunan Belanda yang menjajah. Begitu ditaro, macan keluar. Belanda kucar-kacir, ujar Ahmad Almawadi selaku pengurus masjid. Karena meresahkan, akhirnya Belanda mencari Ki Angga Derpa. Akhirnya ditemukanlah di kampung Aon yang saat ini bernama Lingkungan Drangong. Ia ditangkap kemudia dihukum di dalam kapal. Setelah dihukum Belanda meninggalkan beliau di dalam kapal. Singkat ceritanya, kapal tersebut akhirnya terbawa arus sampai daerah Curug yang lokasinya padahal jauh dari pesisir. Ki Angga Derpa kemudian mengambil cambuk dan memukulkan ke kapal. Kapal dicambuk. Kapal, sira dicambuk bosok salawase (kapal, kamu dicambuk busuk selamanya), ujar Ahmad menirukan cerita yang menurutnya diturunkan turun temurun tersebut. Dan akhirnya Belanda mencari dan kapal itu tak ttersisa, hanya ada batu karang dan sisa besi pelatok kapal. Di sekitar masjid Kapal Bosok ada makam Syekh Abdullah Angga Derpa Kapal Bosok. Di makam itu ada  tulisan berupa silsilah mengenainya mulai dari Nabi Adam, Nabi Muhammad sampai angka 83 Syekh Abdullah Angga Derpa."
+            ]
+        },
+        {
+            "tag": "benteng_speelwijk",
+            "patterns": [
+                "benteng Speelwijk",
+                "Bisakah kamu ceritakan mengenai benteng Speelwijk ? ",
+                "Apa yang kamu ketahui tentang benteng Speelwijk ?",
+                "Apa yang bisa kamu jelaskan mengenai benteng Speelwijk ?",
+                "kisah benteng Speelwijk"
+            ],
+            "responses": [
+                "Sebelum membangun Benteng Speelwijk di Kasemen, Belanda lebih dulu meminta izin kepada Sultan Haji. Belanda mengaku akan menggunakan benteng ini sebagai tempat berlindung dari serangan pengikut Sultan Ageng Tirtayasa. Sultan Tirtayasa adalah ayah Sultan Haji yang terkenal sangat anti Belanda, berbeda dengan putranya. Pembangunan Benteng Speelwijk dimulai pada 1681 dan selesai pada 1684, kemudian mengalami perluasan pada 1731. Dalam mendirikan benteng, Hendrick Loocaszoon Cardeel dibantu oleh tenaga dari orang-orang China yang dibayar dengan upah sangat rendah. Benteng Speelwijk menjadi salah satu simbol kekuasaan Belanda di wilayah Banten setelah Sultan Haji menjalin kerjasama dengan VOC. Keberadaan benteng ini semakin mengokohkan posisi Belanda dalam usahanya memonopoli perdagangan lada dan merica dari Lampung Selatan. Benteng ini juga digunakan sebagai basis pertahanan dan pemukiman orang-orang Belanda di Banten. Oleh karena itu, di sekitar benteng dapat ditemukan makam para bangsawan dan prajurit Belanda. Selain itu, Benteng Speelwijk juga digunakan oleh Belanda untuk mengawasi kegiatan yang dilakukan Kesultanan Banten."
+            ]
+        },
+        {
+            "tag": "keraton_surosowan",
+            "patterns": [
+                "keraton surosowan",
+                "Bisakah kamu ceritakan mengenai keraton surosowan ? ",
+                "Apa yang kamu ketahui tentang keraton surosowan ?",
+                "Apa yang bisa kamu jelaskan mengenai keraton surosowan ?",
+                "kisah keraton surosowan"
+            ],
+            "responses": [
+                "Keraton Surosowan diperkirakan dibangun antara tahun 1526-1570 saat Pemerintahan Sultan Banten yang pertama yaitu Sultan Maulana Hasanudin. Sejarah pembangunan keraton ini tidak lepas dari pemberian wilayah yang diserahkan oleh Sunan Gunung Jati kepada anaknya Sultan Maulana Hasanudin. Layaknya keraton di Jawa, Keraton Surosowan juga berfungsi sebagai tempat tinggal sultan beserta keluarga dan pengikutnya. fungsi lainnya, keraton juga menjadi pusat kerajaan dalam menjalankan pemerintahan Kerjaan Banten. Hal ini terlihat dalam tata pola yang mengikuti kerajaan Islam lainnya di Jawa yang memiliki Alun-Alun di sebelah utara, Masjid Agung di bagian barat dan pasar serta pelabuhan di sisi timur dan utara keraton. Dinding berupa benteng setinggi 2 meter dengan lebar 5 meter ini dibangun untuk meminimalisir serangan Belanda yang pernah menyerang keraton. Atas jasanya, ahli bangunan berkewarganegaraan Belanda yang masuk islam ini diberi gelar oleh Sultan dengan nama Pangeran Wiraguna. Luas benteng bersejarah yang mencapai 4 hektar ini membuat pemerintah Provinsi Banten menetapkan reruntuhan ini sebagai cagar budaya yang dilindungi dan kaya akan sejarah Banten. Karenanya banyak pengunjung yang sering datang hanya untuk memlihat dan sedikit membayangkan bagaimana kejayaan Kerajaan Banten lewat reruntuhan Keraton Surosowan."
+            ]
+        },
+        {
+            "tag": "gedung_juang_45",
+            "patterns": [
+                "gedung juang 45",
+                "Bisakah kamu ceritakan mengenai gedung juang 45 ? ",
+                "Apa yang kamu ketahui tentang gedung juang 45 ?",
+                "Apa yang bisa kamu jelaskan mengenai gedung juang 45 ?",
+                "kisah gedung juang 45"
+            ],
+            "responses": [
+                "Banten merupakan salah satu markas yang cukup penting bagi para penjajah dalam melancarkan serangan-serangan ke titik-titik vital bangsa Indonesia. Hal ini dikarenakan lokasinya yang dekat pusat pemerintahan Indonesia pada masa itu, memang membuat Banten banyak dijadikan pusat pergerakan penjajah. Pada masa perjuangan fisik banyak sekali moment-moment atau kejadian pemberontakan yang terjadi pada kawasan Banten. Salah satunya terjadi pada tanggal 10 Oktober 1945 yaitu perebutan markas Kempetai yang berada di Sebelah Barat Alun-Alun Serang. Perabutan markas tersebut menjadi momen yang sangat penting dalam perjuangan militer. Karena banyak yang tekah mengetahui bahwa tentara kempetai adalah salah satu tentara terbaik yang dimiliki oleh pihak Jepang. Tentara ini sendiri sering melakukan tugas khusus yang berhubungan dengan penyerangan markas-markas militer Indonesia. Perang perebutan markas kempetai ini sendiri terjadi dalam tiga hari peperangan yang cukup sengit, setelah markas berhasil direbut kemudian dijadikan salah satu markas pusat Tentara Keamanan Rakyat (TKR). Kini gedung ini telah menjadi salah satu tempat wisata di Serang yang cukup sering untuk di kunjungi. Bangunan dari gedung ini sendiri masih dipertahankan dengan baik, agar tidak terjadi perubahan yang terlalu banyak. "
             ]
         },
         {
@@ -470,6 +753,45 @@
             ],
             "responses": [
                 "Tempat wisata yang ada di Jakarta, diantaranya yaitu Tugu Proklamasi, Masjid Istiqlal, dan Museum Sumpah Pemuda. "
+            ]
+        },
+        {
+            "tag": "tugu_proklamasi",
+            "patterns": [
+                "tugu proklamasi",
+                "Bisakah kamu ceritakan mengenai tugu proklamasi ? ",
+                "Apa yang kamu ketahui tentang tugu proklamasi ?",
+                "Apa yang bisa kamu jelaskan mengenai tugu proklamasi ?",
+                "kisah tugu proklamasi"
+            ],
+            "responses": [
+                "Tugu Proklamasi berlokasi di area kompleks Taman Proklamasi, Jakarta Pusat. Dulu kala, tempat ini merupakan rumah tinggal bapak proklamator sekaligus presiden pertama republic Indonesia Ir. Soekarno yang ketika itu beralamat di jalan pegangsangan timur no 56 di tempat ini bung karno dan hatta memproklamasikan kemerdekaan Indonesia pada 17 Agustus 1945. Tugu ini diresmikan pada 17 agustus 1972 oleh Menteri penerangan saat itu, diantara yang hadir adalah proklamator dan wakil presiden pertama Mohammad Hatta kemudian pada tanggal 17 Agustus 1980 presiden kedua soeharto meresmikan Monumen Proklamasi. "
+            ]
+        },
+        {
+            "tag": "masjid_istiqlal",
+            "patterns": [
+                "masjig istiqlal",
+                "Bisakah kamu ceritakan mengenai masjid istiqlal ? ",
+                "Apa yang kamu ketahui tentang masjid istiqlal ?",
+                "Apa yang bisa kamu jelaskan mengenai masjid istiqlal ?",
+                "kisah masjid istiqlal"
+            ],
+            "responses": [
+                "Istiqlal yang berarti kemerdekaan merupakan masjid terbesar di Asia Tenggara dengan daya tampung sekitar 120.000 orang. Mesjid Istiqlal yang berarti “kemerdekaan” ini dibangun selama 17 tahun. Kendati digagas Presiden Soekarno, Presiden Soeharto yang meresmikannya pada 22 Februari 1978. Terletak di jalan Taman Wijaya Kusuma, Jakarta Pusat, kubah Mesjid Istiqlal berdiameter 45 meter yang ditopang 12 pilar bundar, dengan balkon empat tingkat. Dalam kunjungan singkatnya selama 18 jam di Indonesia pada 2010, Presiden Amerika Serikat, Barack Obama, sempat mengunjungi Masjid Istiqlal yang dipujinya sebagai simbol toleransi beragama yang menginspirasi dunia."
+            ]
+        },
+        {
+            "tag": "Museum_sumpah_pemuda",
+            "patterns": [
+                "museum sumpah pemuda",
+                "Bisakah kamu ceritakan mengenai museum sumpah pemuda ? ",
+                "Apa yang kamu ketahui tentang museum sumpah pemuda ?",
+                "Apa yang bisa kamu jelaskan mengenai museum sumpah pemuda ?",
+                "kisah museum sumpah pemuda"
+            ],
+            "responses": [
+                "Sebuah museum sejarah perjuangan kemerdekaan Republik Indonesia yang berada di jalan kramat raya no 106, Jakarta Pusat dan dikelola oleh kementrian Pendidikan dan kebudayaan Republik Indonesia. Sejak 1925 gedung Kramat 106 menjadi tempat tinggal pelajar yang tergabung dalam Jong Java. Sejak 1926, penghuni gedung ini makin beragam. Mereka kebanyakan aktivis pemuda dari daerahnya masing-masing. Kegiatan penghuni gedung itu juga makin beragam. Selain kesenian, mahasiswa di gedung ini aktif dalam kepanduan dan olahraga. Gedung ini juga menjadi markas Perhimpunan Pelajar-pelajar Indonesia (PPPI), yang berdiri pada September 1926, usai kongres pemuda pertama. Pemerintah Hindia Belanda selalu mengawasi dengan ketat kegiatan rapat pemuda. Pemerintah memang mengakui hak penduduk di atas 18 tahun mengadakan perkumpulan dan rapat. Hingga akhirnya tempat ini digunakan menjadi Museum Sumpah Pemuda."
             ]
         },
         {
@@ -1975,7 +2297,7 @@
                 "bahasa seko sulawesi selatan "
             ],
             "responses": [
-                "Bahasa Seko merupakan bahasa yang berasal dari Sulawesi Selatan. Bahasa ini biasa digunakan didaerah Desa Seko Padang, Kecamatan Limbong, Kabupaten Luwu Utara, Provinsi Sulawesi Selatan. "
+                "Bahasa Seko merupakan bahasa yang berasal dari Sulawesi Selatan. Bahasa ini biasa digunakan didaerah Desa Seko Padang, Kecamatan Limbong, Kabupaten Luwu Utara, Provinsi Sulawesi Selatan. "
             ]
         },
         {
